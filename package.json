@@ -51,7 +51,7 @@
         "@/routes": "dist/routes",
         "@/services": "dist/services",
         "@/validations": "dist/validations",
-        "@/helpers": "dist/helpers/",
-        "@/middlewares": "dist/middlewares/"
+        "@/helpers": "dist/helpers",
+        "@/middlewares": "dist/middlewares"
     }
 }
